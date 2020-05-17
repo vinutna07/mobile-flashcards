@@ -6,7 +6,7 @@ The app will allow users to create different categories of flashcards called "de
 
 This app is built and tested on IOS. In order to get a copy of the project to run on your local machine - 
 
-- ```git clone```
+- ```git clone https://github.com/vinutna07/mobile-flashcards.git```
 - ```cd mobile-flashcards```
 - ```npm install```
 - ```npm start```
